@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+# After connecting your domain, replace the placeholder below with your real domain.
+# Sitemap: https://YOUR-DOMAIN-HERE/sitemap.xml
